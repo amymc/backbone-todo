@@ -1,0 +1,13 @@
+Backbone.js todo app with [typeahead.js](http://twitter.github.io/typeahead.js/) for autcomplete of 'common' tasks. 
+
+Demo [here] (http://codepen.io/amymc/pen/LameH)
+
+Try typing any of these:
+"wash the cat",
+ "watch 'Curb your enthusiasm'", 
+ "buy milk",
+ "call your parents", 
+ "take your goldfish to the vet", 
+ "run an ultra-marathon",
+  "pick up a new xylophone",
+ "marry Gael Garcia Bernal"
