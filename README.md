@@ -5,7 +5,7 @@ Backbone.js todo app with [typeahead.js](http://twitter.github.io/typeahead.js/)
 
 Demo [here] (http://codepen.io/amymc/pen/LameH)
 
-Try typing any of these:
+Try typing any of these:<br/>
 "wash the cat",<br/>
  "watch 'Curb your enthusiasm'", <br/>
  "buy milk",<br/>
